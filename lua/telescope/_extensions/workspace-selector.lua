@@ -1,5 +1,5 @@
 return require("telescope").register_extension {
     exports = {
-        ["workspace-selector"] = require "workspace-selector.nvim",
+        ["workspace_selector"] = require "workspace-selector.nvim",
     },
 }
